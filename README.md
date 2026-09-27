@@ -6,7 +6,8 @@ Logos de la charte graphique 2026 de STOP Exclusion Énergétique, hébergés ic
 | Fichier | Pôle |
 |---|---|
 | `logo-stop.png` | STOP Exclusion Énergétique (par défaut) |
-| `logo-tzee.png` | Territoires Zéro Exclusion Énergétique |
+| `logo-stop-tzee.png` | Territoires Zéro Exclusion Énergétique (E.T, coordinatrices, programme TZEE) : modèle de Fanny Stahl |
+| `logo-tzee.png` | Territoires Zéro Exclusion Énergétique, version charte 2026 (non utilisée) |
 | `logo-institut.png` | Institut STOP |
 | `logo-fonds.png` | Fonds Reste à Charge |
 
